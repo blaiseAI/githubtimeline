@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Android-project-brightgreen.svg)
 ![](https://img.shields.io/badge/Language-Java%20-orange.svg)
 
-The goal of GitHub Timeline is accept a GitHub user name and produce a timeline containing each repo and annotated with the repo names, the date they were created, and their descriptions.
+The goal of  my GitHub Timeline Application  is to  accept a GitHub user name and makes and HTTP Request to to github API produce a timeline containing each repo and annotated with the repo names, Open Issues, and their descriptions, the date they were created. 
 > Note: Only public repos is displayed.
  ## Technologies and frameworks used
     1. java 11
