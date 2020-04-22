@@ -32,4 +32,5 @@ There are no known bugs in the application but if you encounter any please open 
 
 ## Screenshots
 ![screenshots_home](screen1.png)
+<img src="screen1.png" alt="screenshot" width="50%"/>
 
