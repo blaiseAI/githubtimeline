@@ -28,7 +28,7 @@ An android application consuming the GitHub API to search and view GitHub users 
 https://api.github.com/
 
 ## Issues
-There are no known bugs in the application but if you encounter any please open an [new issue](https://github.com/blaiseAI/githubtimeline/issues/new) on this repo.
+There are no known bugs in the application but if you encounter any please open an [new issue](https://github.com/blaiseAI/githubtimeline/issues/new){:target="_blank"} on this repo.
 
 ## Screenshots
 
