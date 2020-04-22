@@ -31,6 +31,5 @@ https://api.github.com/
 There are no known bugs in the application but if you encounter any please open an [new issue](https://github.com/blaiseAI/githubtimeline/issues/new) on this repo.
 
 ## Screenshots
-![screenshots_home](screen1.png)
 <img src="screen1.png" alt="screenshot" width="50%"/>
 
