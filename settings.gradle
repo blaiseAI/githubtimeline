@@ -1,0 +1,2 @@
+rootProject.name='githubtimev2'
+include ':app'
