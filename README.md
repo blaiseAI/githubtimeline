@@ -3,14 +3,13 @@
 ![](https://img.shields.io/badge/Android-project-brightgreen.svg)
 ![](https://img.shields.io/badge/Language-Java%20-orange.svg)
 
-An android application consuming the GitHub API to search and view GitHub users information and their repositories.
-
+The goal of GitHub Timeline is accept a GitHub user name and produce a timeline containing each repo and annotated with the repo names, the date they were created, and their descriptions.
+> Note: Only public repos is displayed.
  ## Technologies and frameworks used
     1. java 11
     2. Android
     3. Gradle 4.10
     4. okHttp
-    6. ButterKnife
 
 ## Prerequisites
     Android SDK v28
